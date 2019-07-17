@@ -34,7 +34,7 @@ Visit the site in your browser at http://localhost:8000
 
 3. Laptop/desktop view:
 <img src="img-readme/desktop-small.png" height="529" width="876" alt="app desktop view">
-<img src="img-readme/desktop.jpg" height="529" width="876" alt="app desktop view">
+<img src="img-readme/desktop.jpg" height="438" width="264" alt="app desktop view">
 
 
 ## Languages and Resources Used

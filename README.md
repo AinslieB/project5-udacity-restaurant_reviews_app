@@ -35,3 +35,5 @@ Visit the site in your browser at http://localhost:8000
 ## Languages and Resources Used
 * HTML, CSS, and JavaScript
 * Starter code from Udacity
+* Mapbox live location platform
+* Leaflet JavaScript library

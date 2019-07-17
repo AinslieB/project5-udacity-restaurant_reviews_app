@@ -17,7 +17,7 @@ The goal of this project is to take a static restaurant reviews app and revise i
 2. Click the *Fork* link near the top right of my GitHub repository.
 3. The files will be forked to your GitHub repository.
 
-### Fork the repository to your own GitHub account
+### Running the app
 From inside the new directory you created, invoke terminal and launch a local client server using Python: 
  * Python 2: python -m SimpleHTTPServer 8000 
  * Python 3: python3 -m http.server 8000

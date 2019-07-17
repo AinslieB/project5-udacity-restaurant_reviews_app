@@ -24,16 +24,12 @@ From inside the new directory you created, invoke terminal and launch a local cl
 Visit the site in your browser at http://localhost:8000
 
 ## UX Design Samples:
-<img src="img/memory_game.jpg" width="420">
 
-1. Mobile view (Nexus 5):
-<img src="img/mobile-small.jpg" height="526" width="303" alt="app mobile view">
+### Mobile view (Nexus 5):
+<img src="img/mobile-small.jpg" alt="app mobile view" height="303">
 
-2. Tablet view: (iPad Pro)
-<img src="img-readme/tablet-small.png" height="789" width="1042" alt="app tablet view">
-
-3. Laptop/desktop view:
-<img src="img/desktop-small.jpg" height="438" width="264" alt="app desktop view">
+### Laptop/desktop view:
+<img src="img/desktop-small.jpg" alt="app desktop view" width="717">
 
 
 ## Languages and Resources Used
